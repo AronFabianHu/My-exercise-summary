@@ -24,3 +24,8 @@ body {
     margin-right: auto;
 
 }
+
+button a {
+    color: white;
+    text-decoration: none;
+}
